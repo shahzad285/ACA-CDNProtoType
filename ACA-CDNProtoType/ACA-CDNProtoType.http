@@ -1,0 +1,6 @@
+@ACA_CDNProtoType_HostAddress = http://localhost:5197
+
+GET {{ACA_CDNProtoType_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
